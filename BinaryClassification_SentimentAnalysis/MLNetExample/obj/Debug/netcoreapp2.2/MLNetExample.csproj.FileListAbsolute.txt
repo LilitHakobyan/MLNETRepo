@@ -1,0 +1,13 @@
+C:\Users\lilit.hakobyan\source\repos\MLNetExample\MLNetExample\bin\Debug\netcoreapp2.2\MLNetExample.deps.json
+C:\Users\lilit.hakobyan\source\repos\MLNetExample\MLNetExample\bin\Debug\netcoreapp2.2\MLNetExample.runtimeconfig.json
+C:\Users\lilit.hakobyan\source\repos\MLNetExample\MLNetExample\bin\Debug\netcoreapp2.2\MLNetExample.runtimeconfig.dev.json
+C:\Users\lilit.hakobyan\source\repos\MLNetExample\MLNetExample\bin\Debug\netcoreapp2.2\MLNetExample.dll
+C:\Users\lilit.hakobyan\source\repos\MLNetExample\MLNetExample\bin\Debug\netcoreapp2.2\MLNetExample.pdb
+C:\Users\lilit.hakobyan\source\repos\MLNetExample\MLNetExample\obj\Debug\netcoreapp2.2\MLNetExample.csproj.CoreCompileInputs.cache
+C:\Users\lilit.hakobyan\source\repos\MLNetExample\MLNetExample\obj\Debug\netcoreapp2.2\MLNetExample.AssemblyInfoInputs.cache
+C:\Users\lilit.hakobyan\source\repos\MLNetExample\MLNetExample\obj\Debug\netcoreapp2.2\MLNetExample.AssemblyInfo.cs
+C:\Users\lilit.hakobyan\source\repos\MLNetExample\MLNetExample\obj\Debug\netcoreapp2.2\MLNetExample.dll
+C:\Users\lilit.hakobyan\source\repos\MLNetExample\MLNetExample\obj\Debug\netcoreapp2.2\MLNetExample.pdb
+C:\Users\lilit.hakobyan\source\repos\MLNetExample\MLNetExample\bin\Debug\netcoreapp2.2\Data\sentiment labelled sentences\yelp_labelled.txt
+C:\Users\lilit.hakobyan\source\repos\MLNetExample\MLNetExample\bin\Debug\netcoreapp2.2\Data\yelp_labelled.txt
+C:\Users\lilit.hakobyan\source\repos\MLNetExample\MLNetExample\obj\Debug\netcoreapp2.2\MLNetExample.csprojAssemblyReference.cache

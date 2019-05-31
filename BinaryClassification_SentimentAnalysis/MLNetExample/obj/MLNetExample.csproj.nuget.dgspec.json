@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\lilit.hakobyan\\source\\repos\\MLNetExample\\MLNetExample\\MLNetExample.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lilit.hakobyan\\source\\repos\\MLNetExample\\MLNetExample\\MLNetExample.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lilit.hakobyan\\source\\repos\\MLNetExample\\MLNetExample\\MLNetExample.csproj",
+        "projectName": "MLNetExample",
+        "projectPath": "C:\\Users\\lilit.hakobyan\\source\\repos\\MLNetExample\\MLNetExample\\MLNetExample.csproj",
+        "packagesPath": "C:\\Users\\lilit.hakobyan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lilit.hakobyan\\source\\repos\\MLNetExample\\MLNetExample\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lilit.hakobyan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
